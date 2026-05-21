@@ -1,0 +1,74 @@
+[
+    {
+      "id": "BAU_TRUC",
+      "name": "Gốm Bàu Trúc",
+      "region": "CENTRAL_VNM",
+      "location": "Ninh Phước, Ninh Thuận",
+      "description": "Làng gốm cổ của người Chăm, nung lộ thiên không dùng men.",
+      "red_lines": [
+        {
+          "keyword": "men",
+          "warning": "Tuyệt đối không dùng men. Gốm Bàu Trúc là gốm nung lộ thiên, màu sắc đến từ lửa và tro."
+        },
+        {
+          "keyword": "bàn xoay",
+          "warning": "Không dùng bàn xoay. Nghệ nhân đi vòng quanh sản phẩm để tạo hình - kỹ thuật 'đi vòng' truyền thống."
+        }
+      ],
+      "can_personalize": ["kích thước", "logo", "họa tiết"],
+      "estimated_time": "7-20 ngày",
+      "price_range": "100.000đ - 2.000.000đ"
+    },
+    {
+      "id": "BAT_TRANG",
+      "name": "Gốm Bát Tràng",
+      "region": "NORTH_VNM",
+      "location": "Gia Lâm, Hà Nội",
+      "description": "Làng gốm nghìn năm tuổi với men rạn, men ngọc nổi tiếng.",
+      "red_lines": [
+        {
+          "keyword": "xương mỏng",
+          "warning": "Gốm Bát Tràng truyền thống phải có xương dày chắc. Xương quá mỏng sẽ mất giá trị."
+        }
+      ],
+      "can_personalize": ["kích thước", "men màu", "khắc tên", "dát vàng"],
+      "estimated_time": "10-30 ngày",
+      "price_range": "50.000đ - 15.000.000đ"
+    },
+    {
+      "id": "HA_THAI",
+      "name": "Sơn mài Hạ Thái",
+      "region": "NORTH_VNM",
+      "location": "Thường Tín, Hà Nội",
+      "description": "Làng sơn mài truyền thống với kỹ thuật ủ ẩm và mài mòn.",
+      "red_lines": [
+        {
+          "keyword": "sơn PU",
+          "warning": "Tuyệt đối không dùng sơn PU công nghiệp. Chỉ sử dụng mủ cây sơn tự nhiên (sơn then, sơn cánh gián)."
+        },
+        {
+          "keyword": "máy sấy",
+          "warning": "Không dùng máy sấy nhiệt. Quy trình ủ ẩm tự nhiên là bắt buộc để đạt độ bền 50-200 năm."
+        }
+      ],
+      "can_personalize": ["chủ đề tranh", "kích thước", "cốt gỗ", "màu nền"],
+      "estimated_time": "6 tháng",
+      "price_range": "1.000.000đ - 50.000.000đ"
+    },
+    {
+      "id": "VAN_PHUC",
+      "name": "Lụa Vạn Phúc",
+      "region": "NORTH_VNM",
+      "location": "Hà Đông, Hà Nội",
+      "description": "Làng lụa nổi tiếng với lụa vân mượt mà, đối xứng.",
+      "red_lines": [
+        {
+          "keyword": "thuốc nhuộm hóa học",
+          "warning": "Không dùng thuốc nhuộm hóa học. Chỉ dùng thuốc nhuộm tự nhiên để giữ mùi hương thảo mộc."
+        }
+      ],
+      "can_personalize": ["màu sắc", "kiểu dáng", "kích thước"],
+      "estimated_time": "10-20 ngày",
+      "price_range": "300.000đ - 3.000.000đ/mét"
+    }
+  ]

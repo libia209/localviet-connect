@@ -1,0 +1,41 @@
+{
+    "NORTH_VNM": {
+      "name": "Miền Bắc",
+      "greeting": "Chào {pronoun}, {weather} nhé!",
+      "terms": {
+        "mẹ": {"word": "bầm", "example": "Bầm ơi, con về rồi.", "note": "Cách gọi mẹ mộc mạc ở nông thôn"},
+        "bố": {"word": "thầy", "example": "Thầy con đi làm đồng chưa về.", "note": "Cách gọi bố truyền thống"},
+        "tôi": {"word": "tớ", "example": "Tớ đi chợ đây.", "note": "Thân mật giữa bạn bè"},
+        "bạn": {"word": "cậu", "example": "Cậu có khỏe không?", "note": "Thân mật, đồng trang lứa"},
+        "này": {"word": "này", "example": "Này, đi đâu đấy?", "note": "Gọi thân mật"},
+        "kia": {"word": "ấy", "example": "Cái ấy đẹp quá!", "note": "Chỉ sự vật xa người nói"},
+        "nhé": {"word": "nhỉ", "example": "Về nhỉ!", "note": "Từ đệm cuối câu thân mật"}
+      }
+    },
+    "CENTRAL_VNM": {
+      "name": "Miền Trung",
+      "greeting": "Chào {pronoun}, {weather} hỉ!",
+      "terms": {
+        "đâu": {"word": "mô", "example": "Mi đi mô rứa?", "note": "Từ nghi vấn đặc trưng Nghệ Tĩnh"},
+        "kia": {"word": "tê", "example": "Nhà ở đàng tê.", "note": "Chỉ nơi chốn xa"},
+        "sao": {"word": "răng", "example": "Răng mà mi khóc?", "note": "Hỏi lý do"},
+        "vậy": {"word": "rứa", "example": "Đúng rứa rồi!", "note": "Xác nhận hoặc cảm thán"},
+        "này": {"word": "ni", "example": "Cái ni đẹp quá!", "note": "Chỉ vật ở gần"},
+        "đó": {"word": "nớ", "example": "Lấy cái nớ đi!", "note": "Chỉ vật đã biết"},
+        "tôi": {"word": "tui", "example": "Tui mới về dìa.", "note": "Khiêm tốn, gần gũi"}
+      }
+    },
+    "SOUTH_VNM": {
+      "name": "Miền Nam",
+      "greeting": "Chào {pronoun}, {weather} nghen!",
+      "terms": {
+        "về": {"word": "dìa", "example": "Tui dìa nhà đây.", "note": "Biến âm đặc trưng Nam Bộ"},
+        "không": {"word": "hổng", "example": "Tui hổng biết.", "note": "Phủ định nhẹ nhàng"},
+        "nhé": {"word": "nha", "example": "Đi ngủ sớm nha!", "note": "Từ đệm thân mật"},
+        "mẹ": {"word": "má", "example": "Má ơi, cơm chín chưa?", "note": "Cách gọi mẹ miền Nam"},
+        "bố": {"word": "tía", "example": "Tía mới đi ruộng dìa.", "note": "Cách gọi bố miền Nam"},
+        "tôi": {"word": "tui", "example": "Tui mới đi chợ dìa.", "note": "Gần gũi, chân thành"},
+        "này": {"word": "nè", "example": "Ăn bánh đi nè!", "note": "Mời gọi chú ý"}
+      }
+    }
+  }
