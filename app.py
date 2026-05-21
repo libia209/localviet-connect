@@ -1,8 +1,7 @@
+import os
+os.environ["STREAMLIT_SUPPRESS_HASH_WARNING"] = "1"
 import streamlit as st
 import streamlit as st
-# Tắt warning clear cache trên Streamlit Cloud
-st.set_option('client.showErrorDetails', False)
-st.set_option('server.enableStaticServing', True)
 st.set_page_config(page_title="LocalViet Connect", page_icon="🇻🇳")
 st.cache_data.clear()
 st.cache_resource.clear()
