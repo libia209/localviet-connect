@@ -134,7 +134,7 @@ QUY TẮC:
 4. Khi khách hỏi làm đồ thủ công: KIỂM TRA quy tắc làng nghề trước."""
 
     model = genai.GenerativeModel(
-        model_name="gemini-2.5-flash",
+        model_name="gemini-2.5-flash-lite",
         system_instruction=SYSTEM_PROMPT
     )
 
