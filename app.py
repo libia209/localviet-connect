@@ -1,4 +1,8 @@
 import streamlit as st
+st.set_page_config(page_title="LocalViet Connect", page_icon="🇻🇳")
+st.cache_data.clear()
+st.cache_resource.clear()
+
 import google.generativeai as genai
 import os
 import json
@@ -28,8 +32,6 @@ def authenticity_gate(user_message: str):
                         "time": craft["estimated_time"]
                     })
     return violations
-
-st.set_page_config(page_title="LocalViet Connect", page_icon="🇻🇳")
 
 # === SESSION STATE ===
 if "logged_in" not in st.session_state:
